@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\10.2-Rafael\bin\Debug\10.2-Rafael.exe.config
+C:\Users\ucenik\source\repos\10.2-Rafael\bin\Debug\10.2-Rafael.exe
+C:\Users\ucenik\source\repos\10.2-Rafael\bin\Debug\10.2-Rafael.pdb
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\10.2-Rafael.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\10.2-Rafael.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\_10._2_Rafael.Form1.resources
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\_10._2_Rafael.Properties.Resources.resources
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\10.2-Rafael.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\10.2-Rafael.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\10.2-Rafael.exe
+C:\Users\ucenik\source\repos\10.2-Rafael\obj\Debug\10.2-Rafael.pdb
